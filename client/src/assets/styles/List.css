@@ -1,0 +1,17 @@
+@import url("util.css");
+
+.list li{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    padding: 7px 5px;
+    border-top: solid 1px var(--gray-ligth);
+    font-size: 15px;
+}
+.list ul{
+    padding: 5px 10px;
+}
+.list-icon{
+    width: 20px;
+}
