@@ -1,5 +1,5 @@
 :root {
-    --background-color:#fdfdfd;
+    --background-color:#fdfdfd8a;
     --blanco:#fdfdfd;
     --error:#a92525;
     --gray-ligth:#ccc;
@@ -8,7 +8,11 @@
     --secondary-color: #2ecc71;
     --box-shadow: 1px 2px 5px rgb(0, 0, 0,0.3);
 }
-
+body{
+    background-image: url('../img/pintura-lago-montana-montana-al-fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
 html,body{
     margin: 0;
     padding: 0;

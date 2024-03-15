@@ -2,8 +2,6 @@
 
 .container{
     min-height: 100vh;
-    max-width: 1200px;
-    background-color: var(--background-color);
     display: flex;
     justify-content: center;
     flex-direction: column;
